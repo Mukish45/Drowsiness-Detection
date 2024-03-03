@@ -28,6 +28,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 3. Sign up on Roboflow and generate an API key.
 
+    ```bash
+    https://docs.roboflow.com/api-reference/authentication#retrieve-an-api-key
+    ```
+
 ## Note
 
 Ensure that you have an active internet connection while running the project.
